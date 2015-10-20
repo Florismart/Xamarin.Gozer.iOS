@@ -52,3 +52,17 @@ Configuration
 Dictionary for VinzClortho (the Keymaster) is optional. But you shoud assign it if you wana see something in your app :D
 ```C#
 VinzClortho.Instance.Keys = new Dictionary<string, string>();
+
+Usage
+-----
+Configurations ended! Now open your storyboard or simple xibs and use our 
+
+- ZuulButton as UIButton
+- ZuulLabel as UILabel
+- ZuulTextField as UITextField
+- ZuulTextView as UITextView
+
+...and set User Runtimes
+
+
+![Screenshot](https://raw.githubusercontent.com/Florismart/Xamarin.Gozer.iOS/master/runtime_attrbutes.png)
