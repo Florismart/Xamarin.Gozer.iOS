@@ -1,7 +1,7 @@
 Xamarin.Gozer.iOS
 =============
 
-Gozer is an Open Source Xamarin iOS library that allows developers to easily create applications with custom fonts and easily works  with preloaded labels. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.
+Gozer is an Open Source Xamarin iOS library that allows developers to easily create applications with custom fonts and easily works  with preloaded labels. Feel free to use it all you want in your OS apps provided that you cite this project and include the license in your app.
 It extends https://github.com/Florismart/Xamarin.Fontwesome project, so you can use (or not) its setups!
 
 ![Screenshot](https://github.com/Florismart/Xamarin.Gozer.iOS/blob/master/screen-app.png)
