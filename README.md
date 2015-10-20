@@ -52,6 +52,7 @@ Configuration
 Dictionary for VinzClortho (the Keymaster) is optional. But you shoud assign it if you wana see something in your app :D
 ```C#
 VinzClortho.Instance.Keys = new Dictionary<string, string>();
+```
 
 Usage
 -----
